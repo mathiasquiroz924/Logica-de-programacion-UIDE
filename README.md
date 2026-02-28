@@ -3,11 +3,17 @@
 PRINCIPALES FUNCIONALIDADES DEL CODIGO
 
 -Permite al usuario participar en el juego Piedra, Papel o Tijera de forma interactiva.
+
 -Solicita y valida la opción ingresada por el usuario.
+
 -Genera una elección aleatoria para la computadora, simulando un oponente.
+
 -Compara las decisiones del jugador y la computadora mediante lógica condicional.
+
 -Determina y muestra el resultado del juego (victoria, derrota o empate).
+
 -Presenta mensajes claros que mejoran la experiencia del usuario.
+
 -Organiza el código mediante una función para facilitar su comprensión y reutilización.
 
 OBJETIVO DEL PROGRAMA
